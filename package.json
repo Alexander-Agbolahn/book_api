@@ -1,0 +1,26 @@
+{
+  "name": "book_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexander-Agbolahn/book_api.git"
+  },
+  "author": "Alexander Oyedele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexander-Agbolahn/book_api/issues"
+  },
+  "homepage": "https://github.com/Alexander-Agbolahn/book_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
